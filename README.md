@@ -37,7 +37,7 @@ Essa aplicação é um exemplo de sistema de gerenciamento de usuários desenvol
   - **Administradores** para o painel de administração.
   - **Usuários comuns** para o painel do usuário.
   
-  ![Image](https://github.com/user-attachments/assets/b1e41ba2-def5-4753-a44c-28b961c9e28a)
+![Image](https://github.com/user-attachments/assets/b1e41ba2-def5-4753-a44c-28b961c9e28a)
 
 - **Painel do Usuário:**  
   Exibe as informações pessoais do usuário, possibilitando a alteração de senha e/ou email.
