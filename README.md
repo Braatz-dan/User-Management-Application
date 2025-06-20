@@ -30,19 +30,19 @@ Essa aplicação é um exemplo de sistema de gerenciamento de usuários desenvol
 - **Cadastro de Usuários:**  
   Permite o registro de usuários comuns e administradores, com validação dos campos (nome, email e senha).
 
-  https://github.com/Braatz-dan/User-Management-Application/issues/2#issue-3164525633
+![Image](https://github.com/user-attachments/assets/35ec83f7-6a22-4b5e-8721-4c0600c78d41)
 
 - **Login:**  
   Verifica as credenciais inseridas e redireciona:
   - **Administradores** para o painel de administração.
   - **Usuários comuns** para o painel do usuário.
   
-  https://github.com/Braatz-dan/User-Management-Application/issues/1#issue-3164525117
+  ![Image](https://github.com/user-attachments/assets/b1e41ba2-def5-4753-a44c-28b961c9e28a)
 
 - **Painel do Usuário:**  
   Exibe as informações pessoais do usuário, possibilitando a alteração de senha e/ou email.
 
-  https://github.com/Braatz-dan/User-Management-Application/issues/3#issue-3164526073
+![Image](https://github.com/user-attachments/assets/bd53fb0e-aeb3-4766-bbd3-21f43ec6d0ff)
   
 
 - **Painel de Administração:**  
@@ -55,7 +55,7 @@ Essa aplicação é um exemplo de sistema de gerenciamento de usuários desenvol
 - **Exportação para CSV:**  
   Gera um arquivo CSV contendo os dados dos usuários, facilitando análises ou backups.
 
-  https://github.com/Braatz-dan/User-Management-Application/issues/4#issue-3164526363
+![Image](https://github.com/user-attachments/assets/8beea34e-521d-4632-a043-2fe00d4499bc)
 
 ---
 
